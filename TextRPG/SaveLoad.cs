@@ -13,7 +13,7 @@ namespace TextRPG
 
         public static void SaveData()
         {
-            string playerData = String.Join(",", Program.gamePlayer.SaveplayerInfo());
+            string playerData = String.Join(",", Program.gamePlayer.SavePlayerInfo());
             string invenData = Inventory.SaveInven();
             string data = ($"{playerData}/{Program.dungeonProgress}/{invenData}");
             Console.WriteLine( data );

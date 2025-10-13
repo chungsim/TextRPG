@@ -41,6 +41,7 @@ namespace TextRPG
         {
             Hp -= damage;
             if(Hp > 100) Hp = 100;
+            if(Hp < 0) Hp = 0;
         }
         
         public void AtkUP(int num)
@@ -90,7 +91,7 @@ namespace TextRPG
             return infos;
         }
 
-        public List<String> SaveplayerInfo()
+        public List<String> SavePlayerInfo()
         {
             List<String> infos = new List<String>();
             infos.Add($"{Name}");

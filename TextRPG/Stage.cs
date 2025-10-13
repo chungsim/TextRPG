@@ -131,7 +131,12 @@ namespace TextRPG
         };
 
         public static List<Stage> eventStageList = new List<Stage>() {
-                 new Stage("start", StageType.Event, 100, 0, null,"")
+                 new Stage("gold1", StageType.Event, 20, 50, null,"50% 확률로 20골드 획득, 실패 시 동일한 hp 상실"),
+                 new Stage("gold2", StageType.Event, 40, 50, null,"50% 확률로 40골드 획득, 실패 시 동일한 hp 상실"),
+                 new Stage("gold3", StageType.Event, 60, 50, null,"50% 확률로 60골드 획득, 실패 시 동일한 hp 상실"),
+                 new Stage("gold4", StageType.Event, 80, 50, null,"50% 확률로 80골드 획득, 실패 시 동일한 hp 상실"),
+                 new Stage("gold5", StageType.Event, 100, 50, null,"50% 확률로 100골드 획득, 실패 시 동일한 hp 상실"),
+                 new Stage("hp1", StageType.Event, -50, 0, null,"hp 50 회복")
         };
 
         public static List<Stage> shopStageList = new List<Stage>() {

@@ -93,6 +93,7 @@ namespace TextRPG
                                 break;
                             case StageType.Event:
                                 Console.WriteLine("수락!");
+                                Event.eventRoll();
                                 flag = false;
                                 BackToStart();
                                 break;
@@ -404,6 +405,7 @@ namespace TextRPG
                         flag = false;
                         Console.WriteLine("던전 몬스터 사망 확인");
                         Program.gamePlayer.GetExp((Program.dungeonProgress + 1)* 10);
+                        Program.gamePlayer.GetGold((Program.dungeonProgress + 1) * 5);
                     }
                     else // 그냥 전투일 경우
                     {

@@ -12,3 +12,4 @@ C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
 C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
 C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
 C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.sourcelink.json
