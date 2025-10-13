@@ -1,0 +1,14 @@
+C:\Users\zoo\source\repos\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\zoo\source\repos\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\zoo\source\repos\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\zoo\source\repos\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\zoo\source\repos\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\zoo\source\repos\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
